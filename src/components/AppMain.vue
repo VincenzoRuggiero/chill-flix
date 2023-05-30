@@ -82,6 +82,7 @@ main {
   }
 
   .wrapper-card {
+    justify-content: center;
     flex-wrap: wrap;
     margin-bottom: 2rem;
   }
